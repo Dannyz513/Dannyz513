@@ -22,7 +22,7 @@ I build secure, scalable, and cost-efficient cloud solutions using AWS. My backg
 - Built a fully serverless interactive resume hosted on S3 with a custom domain and HTTPS.
 - Configured Route 53 for DNS and integrated CloudFront for CDN distribution.
 - Secured the site with an ACM SSL/TLS certificate.
-🔗 [View Project](#) *(replace with your GitHub project link)*
+🔗 [open index page](https://github.com/Dannyz513/My-Resume-on-AWS)  
 
 ---
 
