@@ -22,15 +22,19 @@ I build secure, scalable, and cost-efficient cloud solutions using AWS. My backg
 - Built a fully serverless interactive resume hosted on S3 with a custom domain and HTTPS.
 - Configured Route 53 for DNS and integrated CloudFront for CDN distribution.
 - Secured the site with an ACM SSL/TLS certificate.
-🔗 [open index page](https://github.com/Dannyz513/My-Resume-on-AWS)  
 
----
+### 📝 **Real-time AWS threat detection pipeline**
+📌 *Guard Duty, IAM, SNS | EventBridge | Lambda*  
+- GuardDuty’s AI-driven findings, EventBridge rules, and a Lambda function to trigger instant alerts.
+- Automated notification system sends formatted security alerts via Amazon SNS to email/SMS subscribers for rapid incident awareness.
+- Customizable detection scope by filtering GuardDuty finding types (e.g., Trojan, Unauthorized Access) and extending to multiple alert channels.  
+
 
 ## 🛠️ Skills
 
 - **Cloud Platforms:** AWS (S3, EC2, Lambda, RDS, CloudFront, Route 53, API Gateway)  
 - **Infrastructure as Code:** Terraform, CloudFormation  
-- **Languages:** Python, JavaScript, HTML, CSS  
+- **Languages:** Python, JavaScript, HTML, CSS , JSON , Yaml 
 - **Networking:** VPC, VPN, NAT, Route Tables, Security Groups  
 - **Security:** IAM, WAF, GuardDuty, ACM, KMS  
 - **DevOps Tools:** GitHub, CI/CD, Docker, Serverless Framework  
